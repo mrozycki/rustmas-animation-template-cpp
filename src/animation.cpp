@@ -1,5 +1,6 @@
 #include "animation.h"
 
+#include <cmath>
 #include <iostream>
 #include <utility>
 
